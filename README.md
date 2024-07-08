@@ -54,7 +54,3 @@ In the project directory, you can run:
 ### Customization
 
 Feel free to modify the `src` directory and its contents to fit your application needs. You can also customize Material-UI themes and components as required.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
